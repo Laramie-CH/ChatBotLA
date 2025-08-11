@@ -1,0 +1,21 @@
+header{
+    background-color: rgb(215, 174, 253);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+section{
+    background-color: rgb(215, 244, 209);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+footer{
+    background-color: rgb(148, 241, 90);
+    text-align: center;
+    padding: 10px;
+}
